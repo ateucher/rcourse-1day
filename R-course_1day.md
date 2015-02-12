@@ -1,17 +1,18 @@
 ---
-title: 'An Introduction to R for Agrologists: March 7, 2015'
+title: 'Introduction to R for Agrologists: March 7 2015'
 output:
   pdf_document:
     fig_height: 1
     fig_width: 1
-geometry: margin=1in
+geometry: margin=0.75in
+fontsize: 12pt
 ---
 
-This one-day course will introduce users to [R](http://www.r-project.org/) software. This course is suitable for individuals who have never used R, as well those who may have used R in the past but need to brush up on the basics.
+This one-day course will introduce users to [R](http://www.r-project.org/) software. This course is suitable for people who have never used R, as well those who may have used R in the past but need to brush up on the basics.
 
 ## What is R?
 
-R is an open source programming language and environment for data manipulation, statistical analysis, and plotting. In addition to being free (as in speech, eg. open source) it is also free (as in free beer, yay!), which means you can download it and use it for free. It works on all major operating systems including Windows, Mac, and Linux.
+R is an open source programming language and environment for data manipulation, statistical analysis, and plotting. In addition to being free (as in speech, eg. open source) it is also free (as in free beer, yay!), which means you can use it for free. It works on all major operating systems including Windows, Mac, and Linux.
 
 ## Course Content
 
@@ -33,6 +34,6 @@ You will need to bring a laptop computer with both R and RStudio installed. A co
 
 ## Instructors
 
-*Andy Teucher* is the analyst for the State of Environment Reporting program at the B.C. Ministry of Environment. He has been using R for almost ten years, and has authored and contributed to several R extensions (packages). He has taught two 2-day R workshops for Ministry of Environment staff, and is a certified instructor for [Software Carpentry](http://www.software-carpentry.org), an organization that teaches computing skills to scientists.
+**Andy Teucher** is the analyst for the State of Environment Reporting program at the B.C. Ministry of Environment. He has been using R for almost ten years, and has authored and contributed to several R extensions (packages). He has taught two 2-day R workshops for Ministry of Environment staff, and is a certified instructor for [Software Carpentry](http://www.software-carpentry.org), an organization that teaches computing skills to scientists.
 
-*Stephanie Hazlitt* is a biologist by training with over 15 years of data wrangling and analysis experience using many statistical packages. Stephanie earned her MSc in vertebrate ecology from Simon Fraser University and her PhD in population genetics from the University of Queensland, Australia. Stephanie currently heads up the State of Environment Reporting unit in the B.C. Ministry of Environment and is a regular R user.
+**Stephanie Hazlitt** is a biologist by training with over 15 years of data wrangling and analysis experience using many statistical packages. Stephanie earned her MSc in vertebrate ecology from Simon Fraser University and her PhD in population genetics from the University of Queensland, Australia. Stephanie currently heads up the State of Environment Reporting unit in the B.C. Ministry of Environment and is a regular R user.
