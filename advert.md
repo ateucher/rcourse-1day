@@ -32,8 +32,4 @@ Stantec Consulting, 400A-2261 Keating Cross Road Saanichton, BC
 
 Andy Teucher is the analyst for the State of Environment Reporting program at the B.C. Ministry of Environment. He has been using R for almost ten years, and has authored and contributed to several R extensions (packages). He has taught two 2-day R workshops for Ministry of Environment staff, and is a certified instructor for [Software Carpentry](http://www.software-carpentry.org), an organization that teaches computing skills to scientists.
 
-<<<<<<< HEAD
-Stephanie Hazlitt is a biologist by training with over 15 years of research and data science experience. Stephanie earned her MSc in vertebrate ecology from Simon Fraser University and her PhD in population genetics from the University of Queensland, Australia. Stephanie currently heads up the State of Environment Reporting unit in the B.C. Ministry of Environment and is a regular R user.
-=======
-Stephanie Hazlitt is the head of the State of Environment Reporting program in the B.C. Ministry of Environment. She holds a PhD in Conservation Genetics and has experience in many statistical and scientific analysis packages. She is now a regular R user and has been using it for about two years.
->>>>>>> 3d3b2d2336a6b850fe4bd53e493f66b5d2c39059
+Stephanie Hazlitt is a biologist by training with over 15 years of data wrangling and analysis experience using many statistical packages. Stephanie earned her MSc in vertebrate ecology from Simon Fraser University and her PhD in population genetics from the University of Queensland, Australia. Stephanie currently heads up the State of Environment Reporting unit in the B.C. Ministry of Environment and is a regular R user.
