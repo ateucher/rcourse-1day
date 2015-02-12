@@ -16,15 +16,15 @@ R is an open source programming language and environment for data manipulation, 
 
 You will be issued a signed certificate of completion at the end of the course.
 
-## Logistics
+## Course Logistics
 
 You will need to bring a laptop computer with both R and RStudio installed. A course package including software installation instructions will be sent out prior to the course.
 
-### Course Date and Time
+### Date and Time
 
 Saturday March 7 2015, 9:00am to 4:00pm. Lunch and snacks will be provided.
 
-### Course Location
+### Location
 
 Stantec Consulting, 400A-2261 Keating Cross Road Saanichton, BC
 
@@ -32,4 +32,8 @@ Stantec Consulting, 400A-2261 Keating Cross Road Saanichton, BC
 
 Andy Teucher is the analyst for the State of Environment Reporting program at the B.C. Ministry of Environment. He has been using R for almost ten years, and has authored and contributed to several R extensions (packages). He has taught two 2-day R workshops for Ministry of Environment staff, and is a certified instructor for [Software Carpentry](http://www.software-carpentry.org), an organization that teaches computing skills to scientists.
 
+<<<<<<< HEAD
 Stephanie Hazlitt is a biologist by training with over 15 years of research and data science experience. Stephanie earned her MSc in vertebrate ecology from Simon Fraser University and her PhD in population genetics from the University of Queensland, Australia. Stephanie currently heads up the State of Environment Reporting unit in the B.C. Ministry of Environment and is a regular R user.
+=======
+Stephanie Hazlitt is the head of the State of Environment Reporting program in the B.C. Ministry of Environment. She holds a PhD in Conservation Genetics and has experience in many statistical and scientific analysis packages. She is now a regular R user and has been using it for about two years.
+>>>>>>> 3d3b2d2336a6b850fe4bd53e493f66b5d2c39059
