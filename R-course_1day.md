@@ -28,7 +28,7 @@ You will be issued a signed certificate of completion at the end of the course.
 
 ## Course Logistics
 
-**Date and Time:** Saturday March 7 2015, 9:00am to 4:00pm. Lunch and snacks will be provided.
+**Date and Time:** Saturday April 11 2015, 9:00am to 4:00pm. Lunch and snacks will be provided.
 
 **Location:** Stantec Consulting, 400A-2261 Keating Cross Road Saanichton, BC
 
