@@ -1,6 +1,8 @@
 ---
 title: 'Introduction to R for Agrologists: March 7 2015'
 output:
+  html_document:
+    toc: false
   pdf_document:
     fig_height: 1
     fig_width: 1
