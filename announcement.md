@@ -1,12 +1,12 @@
 ---
-title: 'Introduction to R for Agrologists: March 7 2015'
+title: 'Introduction to R for Agrologists: April 11, 2015'
 output:
   html_document:
     toc: false
   pdf_document:
     fig_height: 1
     fig_width: 1
-geometry: margin=0.75in
+geometry: margin=0.6in
 fontsize: 12pt
 ---
 
@@ -14,17 +14,20 @@ This one-day course will introduce users to [R](http://www.r-project.org/) softw
 
 ## What is R?
 
-R is an open source programming language and environment for data manipulation, statistical analysis, and plotting. In addition to being free (as in speech, eg. open source) it is also free (as in free beer, yay!), which means you can use it for free. It works on all major operating systems including Windows, Mac, and Linux.
+R is an open source programming language and environment for data manipulation, statistical analysis, and plotting. In addition to being free (as in speech, eg. open source) it is also free (as in free beer, yay!), which means you can download and use it for free. It works on all major operating systems including Windows, Mac, and Linux.
 
 ## Course Content
 
 - R basics including the R environment, basic data structures, and using functions
-- Data input and output using csv files
+- Data input and output using .csv files
 - Installation of external packages to extend R's capabilities
 - Data manipulation using the "dplyr" package
-- Data plotting using the "ggplot2" package
+- Plotting data using the "ggplot2" package
+- Introduction to using R for statistical analysis
 
 You will be issued a signed certificate of completion at the end of the course.
+
+\*\**Note that this will not be a statistics course, but an introduction on how to use the program **R***\*\*
 
 ## Course Logistics
 
